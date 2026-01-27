@@ -63,8 +63,7 @@
 
 ## 🎓 Academic Background  
 - **MSc in Business Analytics** – *NEOMA Business School, Rouen (France)*  
-  - Focus: Data Mining, Machine Learning, Business Intelligence, Data-Driven Strategy  
-  - Internship: [to be added]  
+  - Focus: Data Mining, Machine Learning, Business Intelligence, Data-Driven Strategy    
 
 ---
 
