@@ -53,11 +53,11 @@
 
 ### 💡 Startup Partner | *Incubateurs NEOMA (pasS2Kampus)*  
 **May 2025 – Aug 2025 | France**  
-- Collaborated on an **incubated startup project** developing a DIY platform to support Indian students transitioning to France.  
-- **Engineered core modules** (Checklist, Packing Assistance) using **Supabase** backend for reliable data persistence.  
-- Improved **UI/UX** with **Lovable AI**, incorporating iterative testing and user feedback.  
-- Integrated a **fuzzy logic chatbot** to simplify visa/SOP guidance, reducing repetitive queries.  
-- Performed **competitive market analysis** to define the platform’s unique value proposition.  
+- Cleaned and integrated multi-source user and operational data using SQL and Python to improve analytical consistency
+across the product.
+- Built KPI dashboards tracking user engagement and operational performance, reducing manual reporting by 30%.
+- Structured datasets and documentation frameworks to enhance data accessibility for product and strategy teams.
+- Presented analytical findings to cross-functional teams to support feature prioritization and operational alignment.  
 
 ---
 
