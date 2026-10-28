@@ -58,7 +58,7 @@ finance manager before it falls too low.
 - **Interactive Streamlit app** where users change delays, test CFO actions or upload their own data;
   plus an analysis notebook, automated tests and a 3-page proposal
 
-🔗 [View Repository](https://github.com/Manibalan28/cash-radar) · 🚀 [Live App]((https://cash-radar-hnlgthgbuorkeuja5fjwbr.streamlit.app/)) · 📄 [Proposal (PDF)](https://github.com/Manibalan28/cash-radar/blob/main/reports/Cash_Radar_Proposal_Financial_Navigator.pdf)
+🔗 [View Repository](https://github.com/Manibalan28/cash-radar) · 🚀 [Live App](https://cash-radar-hnlgthgbuorkeuja5fjwbr.streamlit.app/) · 📄 [Proposal (PDF)](https://github.com/Manibalan28/cash-radar/blob/main/reports/Cash_Radar_Proposal_Financial_Navigator.pdf)
 
 ---
 
